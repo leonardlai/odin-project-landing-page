@@ -44,7 +44,17 @@ body {
     min-height: 80px;
 }
 
-.hero
+.section .content{
+    width: 50%;
+}
+
+.section .image-placeholder{
+    width: 40%;
+    background-color: grey;
+    height: 150px;
+    margin: auto;
+    padding: 20px;
+}
 
 .footer{
     min-height: 50px;
